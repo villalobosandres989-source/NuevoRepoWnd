@@ -1,1 +1,2 @@
-# Calculadora de propinas Python
+# Simple Purchase System 🛒💲
+This is a simple 
